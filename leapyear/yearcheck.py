@@ -1,0 +1,1 @@
+fread= open("C:\\Users\\Admin\\PycharmProjects\\pythonProject1\\leapyear\\")
